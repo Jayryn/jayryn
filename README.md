@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **jayyythewaffle@gmail.com**
+- 📫 How to reach me **jaayy.private@gmail.com**
 
 - ⚡ Fun fact **I am currently making physical contact with glass doors.**
 
