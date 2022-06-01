@@ -39,23 +39,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/jayyytheaffle/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jayyythewaffle's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jayyythewaffle&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://github.com/drjayy/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="drjayy's streak" src="https://github-readme-streak-stats.herokuapp.com?user=drjayy&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/jayyythewaffle/github-readme-stats"><img alt="jayyythewaffle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayyythewaffle&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jayyythewaffle/github-readme-stats"><img alt="jayyythewaffle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyythewaffle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/drjayy/github-readme-stats"><img alt="drjayy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drjayy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/drjayy/github-readme-stats"><img alt="drjayy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjayy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/jayyythewaffle/github-readme-activity-graph"><img alt="jayyythewaffle's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayyythewaffle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/drjayy/github-readme-activity-graph"><img alt="drjayy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drjayy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -72,6 +72,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jayyythewaffle">
+    <img src="https://komarev.com/ghpvc/?username=drjayy">
 </a>
-<a href="https://github.com/jayyythewaffle?tab=followers"><img src="https://img.shields.io/github/followers/jayyythewaffle?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/drjayy?tab=followers"><img src="https://img.shields.io/github/followers/drjayy?label=Followers&style=social" alt="GitHub Badge"></a>
