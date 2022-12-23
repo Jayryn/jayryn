@@ -42,15 +42,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/drjayy/github-readme-stats"><img alt="drjayy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drjayy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/drjayy/github-readme-stats"><img alt="drjayy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjayy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/jayryn/github-readme-stats"><img alt="Jayryn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drjayy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jayryn/github-readme-stats"><img alt="Jayryn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjayy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/drjayy/github-readme-activity-graph"><img alt="drjayy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drjayy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jayryn/github-readme-activity-graph"><img alt="Jayryn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drjayy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -67,6 +67,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=drjayy">
+    <img src="https://komarev.com/ghpvc/?username=jayryn">
 </a>
-<a href="https://github.com/drjayy?tab=followers"><img src="https://img.shields.io/github/followers/drjayy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jayryn?tab=followers"><img src="https://img.shields.io/github/followers/jayryn?label=Followers&style=social" alt="GitHub Badge"></a>
