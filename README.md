@@ -34,8 +34,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/drjayy/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="drjayy's streak" src="https://github-readme-streak-stats.herokuapp.com?user=drjayy&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://github.com/jayryn/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayryn's streak" src="https://github-readme-streak-stats.herokuapp.com?user=drjayy&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jayryn/github-readme-activity-graph"><img alt="Jayryn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drjayy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/herokuapp/github-readme-activity-graph"><img alt="Jayryn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayryn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
