@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **New Languages like Dart.**
+- 🌱 I’m currently learning **Rust**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **jaayy.private@gmail.com**
+- 📫 How to reach me **jayryn@fsfe.org**
 
-- ⚡ Fun fact **I am currently making physical contact with glass doors.**
+- ⚡ Fun fact **I am currently making physical contact with a glass door.**
 
 ## 🚀 Languages and Tools:
 
