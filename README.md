@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate hobby developer from Germany.</h3>
 
 
-## 🙋‍♂️👨🏻‍🔧 About Me
+## 👨🏻‍🔧 About Me
 
 - 🌱 I’m currently learning **Rust**.
 
