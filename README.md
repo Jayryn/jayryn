@@ -17,8 +17,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-                <a style="padding-bottom:5px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=40&id=XWesbnSd4AUa&format=png&color=FFFFFF"/> </a> 
-            <a style="padding-left:5px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+                <a style="padding-left:10px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=42&id=XWesbnSd4AUa&format=png&color=FFFFFF"/> </a> 
+            <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
