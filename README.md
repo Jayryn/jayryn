@@ -18,7 +18,7 @@
 
 <p align="left"> 
                 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=38&id=XWesbnSd4AUa&format=png&color=FFFFFF"/> </a> 
-            <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+            <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/XWesbnSd4AUa.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
