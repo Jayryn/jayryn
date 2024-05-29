@@ -13,7 +13,8 @@
 - 📫 How to reach me **jayryn@fsfe.org**
 
 - ⚡ Fun fact **I am currently making physical contact with a glass door.**
-
+  
+<br/> 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
